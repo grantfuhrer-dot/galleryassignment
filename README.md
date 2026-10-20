@@ -17,7 +17,7 @@
 			alt="Photo of one black and one white dog on a frozen lake"
 			width="400px" height="400px"/>
 		<p>
-			All images were found <a href="https://www.flickr.com/photos/141423754@N05/galleries/72157714378737718/" target="blank">here</a> <br></br>
+			All images were found <a href="https://www.flickr.com/photos/141423754@N05/galleries/72157714378737718/" target="blank">here</a> <br><br>
 		The link to the Creative Commons license used in photo five is <a href="https://creativecommons.org/licenses/by/2.0/" target="blank">here.</a> Proportions of photo were edited. Photo by Irene Lindquist.
 		</p>
 	</body>
