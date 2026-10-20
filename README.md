@@ -11,6 +11,9 @@
 		<img src="/images/12616455203_fa706023ee_w.jpg"
 			alt="Close up of the side of a dog's face"
 			width="400px" height="400px"/>
+		<img src="/images/51008274767_51e6e3fea6_w.jpg"
+			alt="Old photo of dog jumping through ring of fire"
+			width="400px" height="400px"/>
 		<p>
 			All images were found <a href="https://www.flickr.com/photos/141423754@N05/galleries/72157714378737718/" target="blank">here</a>
 		</p>
