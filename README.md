@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 		<h1>My Beautiful Ball-Chasing Boys (dogs)</h1>
 	<body>
