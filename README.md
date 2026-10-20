@@ -14,8 +14,12 @@
 		<img src="/images/51008274767_51e6e3fea6_w.jpg"
 			alt="Old photo of dog jumping through ring of fire"
 			width="400px" height="400px"/>
+		<img src="/images/31221432052_0c3f83032b_w.jpg"
+			alt="Photo of one black and one white dog on a frozen lake"
+			width="400px" height="400px"/>
 		<p>
-			All images were found <a href="https://www.flickr.com/photos/141423754@N05/galleries/72157714378737718/" target="blank">here</a>
+			All images were found <a href="https://www.flickr.com/photos/141423754@N05/galleries/72157714378737718/" target="blank">here</a> <br></br>
+		The link to the Creative Commons license used in photo five is <a href="https://creativecommons.org/licenses/by/2.0/" target="blank">here.</a> Proportions of photo were edited. Photo by Irene Lindquist.
 		</p>
 	</body>
 </html>
